@@ -1,4 +1,4 @@
-module github.com/amitshekhariitbhu/go-backend-clean-architecture
+module github.com/edujudici/go-backend-clean-architecture
 
 go 1.19
 
